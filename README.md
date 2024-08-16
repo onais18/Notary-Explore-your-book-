@@ -2,6 +2,6 @@
 Notary: A coding project for searching through text in javascript
 
 <p align="center">
-  <img src="PNG File (.png)
+  <img src="NotaryDemopic.png
 " width="350" title="hover text">
 </p>
